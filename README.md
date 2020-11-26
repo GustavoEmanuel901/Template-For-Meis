@@ -3,7 +3,8 @@ Template ReactJs de E-commerce para pequenas Lojas.
 
 ## Funcionalidades
 
-- O template conta com a área de Adminstritração e Área de Usuário.
+- O template conta com a área de Adminstritração e Área de Usuário
+- Validação de Formulário
 - Totalmente Responsivo
 - Carrousel feito com ReactStrap
 - Styled-Components
